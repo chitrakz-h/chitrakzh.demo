@@ -1,2 +1,2 @@
 # chitrakzh.demo
-hello i am chitraksh shrama
+this is my first repository-chitraksh sharma
